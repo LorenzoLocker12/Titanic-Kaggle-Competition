@@ -30,7 +30,7 @@ This repository contains all the code and resources I used to tackle the problem
 
 ## 📊 Results
 
-Achieved a **Top 17% ranking** on the Kaggle leaderboard. My final model utilized an ensemble approach to maximize accuracy on unseen data.
+Achieved a **Top 17% ranking** on the Kaggle leaderboard. My final model utilized a Logistic Regression approach to maximize accuracy on unseen data.
 
 ---
 
